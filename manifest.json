@@ -1,0 +1,16 @@
+{
+  "name": "Painel de Monitoria - Prof. Artur",
+  "short_name": "Monitoria",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0d47a1",
+  "theme_color": "#0d47a1",
+  "description": "Sistema de gestão de monitoria acadêmica",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
